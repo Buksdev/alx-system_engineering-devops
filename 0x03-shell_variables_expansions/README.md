@@ -1,1 +1,1 @@
-Create a script that counts the number of directories in the PATH
+0x03. Shell, init files, variables and expansions
